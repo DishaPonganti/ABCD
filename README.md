@@ -13,3 +13,5 @@ pip install [--upgrade] PyMuPDF
 * Search keyword and add comment
 * Search keyword and add sticky note
 * Search keyword and add web links
+
+Reach out to me for more clarification
